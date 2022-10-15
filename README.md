@@ -8,4 +8,4 @@ This repository contains solutions to exercises from Cryptography course at AGH 
 
 ## 1. Caesar cipher, Vigenere cipher
 
-[Solution](/blob/main/Laboratorium-01-4students.ipynb)
+[Solution](/Laboratorium-01-4students.ipynb)
