@@ -9,3 +9,15 @@ This repository contains solutions to exercises from Cryptography course at AGH 
 ## 1. Caesar cipher, Vigenere cipher
 
 [Solutions](/lab1)
+
+## 2. Linear congruential generators, PRNG generators, RC4 stream cipher, randomness tests
+
+[Solutions](/lab2)
+
+## 3. DES cipher
+
+[Solutions](/lab3)
+
+## 4. AES cipher
+
+[Solutions](/lab4)
