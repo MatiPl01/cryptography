@@ -21,3 +21,11 @@ This repository contains solutions to exercises from Cryptography course at AGH 
 ## 4. AES cipher
 
 [Solutions](/lab4)
+
+## 5. RSA cipher (not finished)
+
+[Solutions](/lab5)
+
+## 6. SHA-2 cipher (not finished)
+
+[Solutions](/lab6)
